@@ -52,13 +52,13 @@
 ### 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/raushan666java" target="blank">
+  <a href="https://linkedin.com/in/Raushan Kumar" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://x.com/Raushan666java" target="blank">
+  <!-- <a href="https://x.com/Raushan666java" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-  <a href="mailto:raushan.dev.contact@gmail.com">
+  </a> -->
+  <a href="mailto:raushan919962@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
