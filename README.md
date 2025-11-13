@@ -13,7 +13,7 @@
 - 💡 Experienced in **Laravel, MySQL, Docker, React, and Microservices Architecture**  
 - 🧑‍💻 Love optimizing systems for **speed, scalability, and reliability**  
 - 💬 Ask me about **Laravel | MySQL | Docker | Kubernetes | React | DevOps**  
-- 📫 Reach me at **raushan.dev.contact@gmail.com**  
+- 📫 Reach me at **raushan919962@gmail.com**  
 - ⚡ Fun fact: I enjoy turning ideas into scalable SaaS products 🚀  
 
 ---
